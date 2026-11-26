@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Gradio cache
+.gradio/
+
+# IntelliJ IDEA workspace & user settings
+.idea/workspace.xml
+.idea/shelf/
+.idea/dataSources/
+.idea/caches/
+
+# System files & logs
+Thumbs.db
+.DS_Store
+*.log
